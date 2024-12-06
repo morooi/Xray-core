@@ -1,4 +1,4 @@
-module github.com/morooi/xray-core
+module github.com/morooi/xray-core/v24
 
 go 1.21.4
 
